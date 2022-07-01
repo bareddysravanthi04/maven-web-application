@@ -3,7 +3,7 @@ pipeline{
 agent any
 
 tools{
-harimaven
+maven 'maven3.8.2'
 
 }
 
