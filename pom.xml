@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.2-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url> http://13.126.61.204:8081/repository/Snapshotone/ </url>
+	      <url>http://13.126.61.204:8081/repository/Satsnapshot/  </url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
