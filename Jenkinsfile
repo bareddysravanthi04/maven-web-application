@@ -3,7 +3,7 @@ pipeline{
 agent any
 
 tools{
-saimaven '3.6.1'
+maven 'maven3.8.2'
 
 }
 
